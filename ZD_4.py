@@ -6,7 +6,6 @@ with open('text.txt', 'w', encoding='utf-8') as data:
     tx = input('Введите строку: ')
     data.write(tx)
 
-
 new_list = []
 r = None
 for d in tx:
