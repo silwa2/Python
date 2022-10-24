@@ -1,5 +1,6 @@
 # Создайте программу для игры в ""Крестики-нолики"".
 
+
 from random import *
 from time import sleep
 import sys
